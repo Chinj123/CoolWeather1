@@ -1,6 +1,6 @@
 package com.coolweather.android;
 
-import android.coolweather.com.coolweather.R;
+import com.coolweather.android.R;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
